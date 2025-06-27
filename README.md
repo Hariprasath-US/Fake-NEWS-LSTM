@@ -33,4 +33,4 @@ Fake-News-LSTM/
 ```
 
 ## 🧑‍💻 Author
-Your Name
+Hariprasath U S
